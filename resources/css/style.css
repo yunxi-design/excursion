@@ -10,14 +10,31 @@ h2 {
     color:white;
 }
 
-a {
+.download {
     color: aquamarine;
     font-size: 16px;
     text-decoration: none;
     transition: color 350ms linear;
 }
 
+p {
+    margin-bottom: 30px;
+}
+
 p :hover {
     color: darkturquoise;
 }
 
+.description {
+    font-size: 21px;
+    color: gray;
+}
+
+h3 {
+    text-align: right;
+    color: gray;
+}
+
+footer {
+    margin: 20px 0 30px 0;
+}
